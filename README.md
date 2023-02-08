@@ -16,3 +16,6 @@ https://developer.nvidia.com/embedded/linux-tegra-r3271
 https://catalog.ngc.nvidia.com/orgs/nvidia/containers/l4t-ml
 
 https://gist.github.com/jetsonhacks/2717a41f7e60a3405b34
+
+
+sudo apt-get install qemu-user-static
